@@ -4,8 +4,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a TypeScript project named "typescript-starter" - a comprehensive TypeScript starter template with modern tooling.
-The project includes build tools, testing, linting, formatting, and CI/CD configurations.
+This is a TypeScript project named "first-mcp-server" - an MCP (Model Context Protocol) server implementation.
+The project includes modern TypeScript tooling, testing, linting, and formatting configurations.
 
 ## Development Commands
 
@@ -60,3 +60,4 @@ The project includes build tools, testing, linting, formatting, and CI/CD config
 - Module entry: `dist/index.mjs` (currently not built)
 - Types: `dist/index.d.ts` (currently not generated)
 - Published files limited to `dist/` only
+- Current implementation: Basic console.log output (src/index.ts:5)

@@ -1,51 +1,5 @@
-# TypeScript Starter
+# My first MCP server
 
-A comprehensive TypeScript starter template with modern tooling, testing, and build configuration.
-
-## Features
-
-✨ **Modern TypeScript Configuration**
-- Strict type checking with `noUncheckedIndexedAccess`
-- Path mapping support (`#src/*` aliases)
-- ES2022 target with CommonJS output
-- Source maps and declaration files
-
-🏗️ **Build System**
-- [tsup](https://github.com/egoist/tsup) for fast builds
-- TypeScript compilation with type checking
-- Development server with ts-node
-
-🧪 **Testing**
-- [Jest](https://jestjs.io/) with ts-jest preset
-- Watch mode for development
-- Coverage reporting
-- Global test setup configuration
-
-📏 **Code Quality**
-- [ESLint](https://eslint.org/) with TypeScript support
-- [Prettier](https://prettier.io/) code formatting
-- Pre-commit hooks with [Husky](https://typicode.github.io/husky/) and [lint-staged](https://github.com/okonet/lint-staged)
-- Conventional commits with [Commitlint](https://commitlint.js.org/)
-
-🔒 **Security & Maintenance**
-- Security auditing with [audit-ci](https://github.com/IBM/audit-ci)
-- Dependency updates with [npm-check-updates](https://github.com/raineorshine/npm-check-updates)
-- Automated releases with [standard-version](https://github.com/conventional-changelog/standard-version)
-
-## Quick Start
-
-### Prerequisites
-
-- Node.js (version 16 or higher)
-- npm or yarn
-
-### Installation
-
-```bash
-git clone <repository-url>
-cd typescript-starter
-npm install
-```
 
 ### Development
 
@@ -88,7 +42,7 @@ npm run build
 ## Project Structure
 
 ```
-typescript-starter/
+first-mcp-server/
 ├── src/                    # Source code
 │   └── index.ts           # Main entry point
 ├── test/                  # Test files

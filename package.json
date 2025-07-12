@@ -1,8 +1,8 @@
 {
-  "name": "typescript-starter",
+  "name": "first-mcp-server",
   "version": "0.1.0",
   "private": true,
-  "description": "A comprehensive TypeScript starter template with modern tooling, testing, and build configuration",
+  "description": "My first MCP server",
   "main": "dist/index.js",
   "files": ["dist"],
   "scripts": {
